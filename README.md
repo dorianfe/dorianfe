@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dorianfe
 - 👀 I’m interested in PHP Symfony and JAVA.
-- 🌱 I’m currently learning Symfony and getting to know CSS better.
+- 🌱 I’m currently learning Spring and Angular.
 - 📫 How to reach me : fenestre.dorian@free.fr
 
 <!---
